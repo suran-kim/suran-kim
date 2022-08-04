@@ -1,15 +1,10 @@
-# 👀 SuranSu
+# 👀 suranKim 👀
 
-### About me
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=suran-kim)](https://velog.io/@suran-kim) 
 
 ---
 
-🤩Hi, I’m a Suran Kim🤩
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=suran-kim&color=dark)](https://github.com/eungyeole/velog-readme-stats)
 
-I’m student learning to become a back-end developer. My first button is the back-end but I think everything is a step towards a full-stack developer.
 
-- 🌱 I’m currently learning …
-    - Java
-    - SQL
-- 👀 I’m interested in …
-    - 🖼🎨Drawing,  🛹🏃‍♀️boarding (beginner), 🎞🎥watching movies
+
